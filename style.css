@@ -1,0 +1,48 @@
+nav > ul > li > a{
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+nav > ul >li{
+    display: inline;
+}
+
+footer{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.firstsection{
+    text-align: center;
+    margin-top:200px ;
+}
+
+#menus{
+    text-align: center;
+}
+
+header{
+    text-align: right;
+}
+
+label{
+    
+    display: block;
+    margin-bottom: 20px;
+}
+
+#phone{
+    margin-top: 10px ;
+}
+
+
+h2{
+    margin: 0px 400px 20px 400px;
+    padding: 20px;
+    color: white;
+    background-color: yellowgreen;
+}
+section{
+    background-color: aqua;
+    padding: 20px;
+}
